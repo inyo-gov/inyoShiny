@@ -1,0 +1,43 @@
+# History files
+.Rhistory
+.RData
+
+# RStudio files
+.Rproj.user
+.Ruserdata
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+.Rbuildignore
+
+# Compiled code
+/*.o
+/*.so
+/*.dll
+
+# Output files
+/*.pdf
+/*.html
+
+# Dependency directories
+packrat/
+renv/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
+
+# Temporary files
+/tmp
+
+
+# Deployment files
+rsconnect/
